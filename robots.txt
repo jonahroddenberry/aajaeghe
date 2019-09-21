@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahxohzahre.jarekbaran.dev/sitemap.xml
